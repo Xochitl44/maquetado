@@ -1,3 +1,72 @@
+.bigBox {
+    background-color: black;
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    position: relative;
+}
+
+.caja {
+    width: 40px;
+    height: 40px;
+    border: 4px dotted aquamarine;
+    color: white;
+    text-align: center;
+}
+
+.box1 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.box2 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.box3 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.box4 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.box5 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.box6 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.box7 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.box8 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+
+
+
+/*
+practica 4 - Mickey Mouse
 .caja {
     background-color: red;
     border-radius: 50%;
@@ -37,3 +106,4 @@
     margin-top: 250px;
     margin-left: 350px;
 }
+*/
