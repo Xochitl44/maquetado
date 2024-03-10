@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+p {
+    color: rgb(209, 205, 199);
+}
+
+li,
+a {
+    color: rgb(125, 237, 165);
+}
