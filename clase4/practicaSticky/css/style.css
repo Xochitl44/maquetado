@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(39, 10, 93);
+    color: white;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 40px;
+    height: 100%;
+}
+
+.listContainer {
+    padding: 20px;
+    width: 70%;
+    margin: 20px auto;
+    max-width: 650px;
+}
+
+.listHeader {
+    color: yellowgreen;
+    position: sticky;
+    top: 20px;
+    background-color: blueviolet;
+    border: solid 4px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.listContent {
+    padding-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
