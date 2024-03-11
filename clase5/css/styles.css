@@ -1,0 +1,95 @@
+@media screen and (max-width:768px) {
+    .mobile {
+        background-color: black;
+        color: white;
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .tablet,
+    .desktop,
+    .xl,
+    .xl2,
+    .xl3 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .tablet {
+        background-color: red;
+        color: black;
+        display: block;
+    }
+
+    .mobile,
+    .desktop,
+    .xl,
+    .xl2,
+    .xl3 {
+        display: none;
+    }
+}
+
+
+@media screen and (min-width:1024px) {
+    .desktop {
+        background-color: green;
+        display: block;
+    }
+
+    .mobile,
+    .tablet,
+    .xl,
+    .xl2,
+    .xl3 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .xl {
+        background-color: blueviolet;
+        display: block;
+    }
+
+    .mobile,
+    .desktop,
+    .tablet,
+    .xl2,
+    .xl3 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:1536px) {
+    .xl2 {
+        background-color: pink;
+        display: block;
+    }
+
+    .mobile,
+    .desktop,
+    .tablet,
+    .xl,
+    .xl3 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:1920px) {
+    .xl3 {
+        background-color: black;
+        display: block;
+        color: aquamarine;
+    }
+
+    .mobile,
+    .desktop,
+    .tablet,
+    .xl,
+    .xl2 {
+        display: none;
+    }
+}
